@@ -1,1 +1,3 @@
-Welcome to my Repository
+Welcome to my First Repository in GIT
+This is  sample made to understand the working of GIT in my system.
+These words that am typing are just silly things that are coming to my mind as i do it.
