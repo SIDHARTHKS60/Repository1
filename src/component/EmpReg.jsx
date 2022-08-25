@@ -1,6 +1,5 @@
 import React,{ useState,Component} from 'react'
-import Axios from 	
-
+//comments
 class EmpReg extends Component {
     
     state={id:'',name:'',position:''};
